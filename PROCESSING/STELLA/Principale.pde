@@ -1,5 +1,7 @@
 Albero a1, a2;
 
+int y = -85;
+
 int tr1x0 = 50;
 int tr1x1 = 150;
 int tr2x0 = 140;
